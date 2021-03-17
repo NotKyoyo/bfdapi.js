@@ -11,7 +11,12 @@
     "url": "git+https://github.com/notkyoyo/bfdapi.js.git"
   },
   "keywords": [
-    "discord"
+    "discord",
+    "discord api",
+    "botsfordiscord",
+    "api",
+    "bfdapi",
+    "discordbotlist"
   ],
   "author": "Kyoyo",
   "license": "AGPL-3.0",

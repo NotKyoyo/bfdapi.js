@@ -33,6 +33,7 @@ const api = new BFDAPI("Client ID");
 
 api.getBot("Client ID").then((res) => console.log(res));
 // if successful: {<Object>}
+
 // if failed, it will throw an error
 ```
 
