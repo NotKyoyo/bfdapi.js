@@ -1,0 +1,26 @@
+{
+  "name": "bfdapi.js",
+  "version": "1.0.0",
+  "description": "A Javascript wrapper for the botsfordiscord api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/postServerCount.js && node test/getBot.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notkyoyo/bfdapi.js.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Kyoyo",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/notkyoyo/bfdapi.js/issues"
+  },
+  "homepage": "https://github.com/notkyoyo/bfdapi.js#readme",
+  "dependencies": {
+    "events": "^3.3.0",
+    "phin": "^3.5.1"
+  }
+}
