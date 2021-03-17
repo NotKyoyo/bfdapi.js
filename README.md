@@ -39,4 +39,4 @@ api.getBot("Client ID").then((res) => console.log(res));
 
 # Contributions
 
-### [Fork](https://github.com/notkyoyo/bfdapi.js/fork) the repo, add some codes, then [pull](https://github.com/notkyoyo/bfdapi.js/fork) the new codes, and if it's good. I'll merge it will the main branch.
+[Fork](https://github.com/notkyoyo/bfdapi.js/fork) the repo, add some codes, then [pull](https://github.com/notkyoyo/bfdapi.js/fork) the new codes, and if it's good. I'll merge it will the main branch.
